@@ -17,6 +17,7 @@ var startwordssilly = [
 'galactic',
 'intergalactic',
 'epic',
+'deluxe',
 ];
 
 var middlewords = [
@@ -77,6 +78,8 @@ var numberwordssilly = [
 '1000',
 '2000',
 '3000',
+'360',
+'One',
 ];
 
 var endwords = [
@@ -101,6 +104,8 @@ var endwordssilly = [
 'collection',
 'adventure',
 'fight',
+'deluxe',
+'XP',
 ];
 
 function randomInt(min,max){
